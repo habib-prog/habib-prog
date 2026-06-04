@@ -1,5 +1,5 @@
 
-**About Me** <br><br>Hi, I’m Habib, a passionate Fullstack Software Engineer with a focus on building modern, responsive, and user-friendly web applications.  
+**About Me** <br><br>- Fullstack Software Engineer & DevOps Enthusiast | MERN Stack, Docker, Redis, RabbitMQ & AWS | Building scalable system architectures.  
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iam.your.xavier) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/habib-md-saifullah) 
