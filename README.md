@@ -7,7 +7,7 @@
   <!-- টাইপিং অ্যানিমেশন সহ হেডার -->
   <h1>Hi there, I'm Habib MD Saifullah 👋</h1>
   
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=A3E635&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Engineer+(+Mern+)+%2F+Backend+%2F+DevOps" alt="Typing Effect" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=A3E635&center=true&vCenter=true&width=650&lines=FullStack+Software+Engineer+(+Mern+)+%2F+Backend+%2F+DevOps" alt="Typing Effect" />
   <p align="center">
     <a href="https://linkedin.com/in/habib-md-saifullah"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://facebook.com/iam.your.xavier"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
