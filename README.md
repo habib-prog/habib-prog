@@ -1,6 +1,6 @@
 <div align="center">
   <!-- গিটহাব ট্রাস্টেড প্রিমিয়াম ডার্ক কোডিং অ্যানিমেশন -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWtib3Y1am94b3g3YTI2bms3Z3V5Z280N3M0ZDd4Y290YndtcHd6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Developer Workflow Animation" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWtib3Y1am94b3g3YTI2bms3Z3V5Z280N3M0ZDd4Y290YndtcHd6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Developer Workflow Animation" />
 
   <br/><br/>
 
