@@ -87,21 +87,8 @@ I am a professional **Fullstack Software Engineer & DevOps Enthusiast** based in
 
  
 
----
-
-### ⚡ Git Contribution Insights
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=habib-prog&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Contribution Distribution" />
-</div>
-
----
-
 <div align="center">
   <!-- Dynamic Random Developer Insights -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer Inspiration" />
   
-  <br/><br/>
   
-  <!-- Unique Page Visits Tracker -->
-  <img src="https://visitcount.itsvg.in/api?id=habib-prog&icon=0&color=0" alt="Total Profile Views" />
-</div>
