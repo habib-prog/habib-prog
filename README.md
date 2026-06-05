@@ -1,37 +1,108 @@
-**About Me** <br><br> Fullstack Software Engineer & DevOps Enthusiast | MERN Stack, Docker, Redis, RabbitMQ & AWS | Building scalable system architectures.  
+<div align="center">
+  <!-- গিটহাব ট্রাস্টেড প্রিমিয়াম ডার্ক কোডিং অ্যানিমেশন -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWtib3Y1am94b3g3YTI2bms3Z3V5Z280N3M0ZDd4Y290YndtcHd6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Developer Workflow Animation" />
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iam.your.xavier) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/habib-md-saifullah) 
+  <br/><br/>
 
-# 💻 Tech Stack:
+  <!-- টাইপিং অ্যানিমেশন সহ হেডার -->
+  <h1>Hi there, I'm Habib MD Saifullah 👋</h1>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A3E635&center=true&vCenter=true&width=600&lines=Backend+Engineer+%2F+DevOps+Enthusiast;Fullstack+Software+Engineer+%2F+MERN+Expert" alt="Typing Effect" />
 
-### 🎨 Frontend Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-%23BC52EE.svg?style=for-the-badge&logo=astro&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Zustand](https://img.shields.io/badge/zustand-%23443e38.svg?style=for-the-badge&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+  <p align="center">
+    <a href="https://linkedin.com/in/habib-md-saifullah"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://facebook.com/iam.your.xavier"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
+  </p>
+</div>
+
+---
+
+## 🍋 About Me
+
+I am a professional **Fullstack Software Engineer & DevOps Enthusiast** based in Dhaka. My core expertise is heavily anchored in building robust, data-driven **Backend Systems & DevOps Infrastructures**, perfectly paired with modern, pixel-perfect **Frontend Architectures**. 
+
+* ⚙️ **Backend Engineering:** Highly focused on designing secure RESTful/GraphQL APIs, real-time communication networks (Socket.io), and distributed microservices using **Node.js**, **Express**, and **MongoDB**.
+* 🐳 **DevOps & Cloud:** Passionate about containerizing applications with **Docker**, handling asynchronous event-driven message queuing with **RabbitMQ**, caching with **Redis**, and automating infrastructure setups on **AWS**.
+* 🎨 **Frontend Crafting:** Skilled in developing fast, modern, and SEO-optimized web interfaces using **React**, **Next.js**, **Astro**, and **Tailwind CSS**.
+* 🐈 **Daily Routine:** Writing enterprise-grade clean code under the sharp oversight of my feline supervisor while refactoring systems for maximum throughput and minimum latency.
+
+---
+
+## 💻 Tech Stack
 
 ### ⚙️ Backend & Databases
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<p align="left">
+  <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" />
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
 
 ### 🐳 DevOps, Cloud & Tools
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare" />
+</p>
+
+### 🎨 Frontend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
+  <img src="https://img.shields.io/badge/Astro-%23BC52EE.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/zustand-%23443e38.svg?style=for-the-badge&logo=white" alt="Zustand" />
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+</p>
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=habib-prog&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=habib-prog&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=habib-prog&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 Analytics & Performance
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=habib-prog&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<div align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=habib-prog&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="Milestone Trophies" />
+  
+  <br/><br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  <!-- Top Section: Core Stats and Most Used Languages -->
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=habib-prog&theme=neon&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Metrics" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=habib-prog&theme=neon&hide_border=false&layout=compact" alt="Most Used Languages" />
+      </td>
+    </tr>
+  </table>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=habib-prog&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  <br/>
+
+ 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=habib-prog&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🚀 My Programming Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habib-prog&layout=compact&theme=radical&hide_border=false)
+### ⚡ Git Contribution Insights
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=habib-prog&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Contribution Distribution" />
+</div>
+
+---
+
+<div align="center">
+  <!-- Dynamic Random Developer Insights -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer Inspiration" />
+  
+  <br/><br/>
+  
+  <!-- Unique Page Visits Tracker -->
+  <img src="https://visitcount.itsvg.in/api?id=habib-prog&icon=0&color=0" alt="Total Profile Views" />
+</div>
